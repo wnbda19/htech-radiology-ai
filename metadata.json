@@ -1,0 +1,7 @@
+{
+  "name": "Htect",
+  "description": "AI-powered medical imaging analysis prototype by Htect. Supports X-ray and MRI analysis with bilingual support.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

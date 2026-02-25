@@ -26,21 +26,6 @@ Htect is a cross-platform medical imaging analysis prototype that leverages Goog
 
 ---
 
-## 📸 Screenshots
-
-| Disclaimer | Home | Upload |
-|-----------|------|--------|
-| ![](screenshots/IMG_0228.png) | ![](screenshots/IMG_0229.png) | ![](screenshots/IMG_0230.png) |
-
-| Analyzing | Results | Diagnoses |
-|-----------|---------|-----------|
-| ![](screenshots/IMG_0231.png) | ![](screenshots/IMG_0232.png) | ![](screenshots/IMG_0233.png) |
-
-| Arabic Support | Medical Terms | Patient Plan |
-|---------------|---------------|--------------|
-| ![](screenshots/IMG_0234.png) | ![](screenshots/IMG_0235.png) | ![](screenshots/IMG_0236.png) |
-
----
 
 ## ✨ Features
 
